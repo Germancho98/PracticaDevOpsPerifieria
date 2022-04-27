@@ -1,0 +1,3 @@
+<?php
+    $Cn->Ejecutar("DELETE FROM PROVEEDORES WHERE IDPROVEEDOR=".$_GET["COD"]);
+
