@@ -31,7 +31,7 @@
                             <label>Buscar: </label>
                         </div> 
                         <div class='btn-group mr-2' role='roup'>                          
-                            <input type="text" name="busque" class="form-control" autocomplete="off" autofocus="" size="60">
+                            <input type="text" name="busque" class="form-control" autocomplete="off" autofocus="" size="60" border="0" required="">
                         </div>
                         <div class='btn-group mr-2' role='roup'>   
                             <select name="campo"class="form-control border-0">
